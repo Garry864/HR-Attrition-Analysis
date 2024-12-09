@@ -92,12 +92,4 @@ For inquiries or collaboration opportunities, reach out via the [GitHub profile]
 ---
 
 🎉 **Thank you for exploring this project! Let’s work together to improve HR practices and employee retention.**
-```
 
-### **Highlights**
-1. Structured layout with clear sections for insights, repository contents, and model evaluation.
-2. Prominent link to the hosted report for easy access.
-3. Future exploration opportunities encourage further research and contributions.
-4. Actionable insights and practical HR applications of the analysis.
-
-Let me know if you need any more adjustments! 😊
